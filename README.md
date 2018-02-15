@@ -1,5 +1,7 @@
 # cadquery-x
-A project to work through some purely experimental ideas for the CadQuery project.
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-***This project is no longer maintained. What I was attempting to do here is being replaced by [cadquery-gui](https://github.com/jmwright/cadquery-gui) and the [CadQuery 2.0](https://github.com/dcowden/cadquery/tree/2_0_branch) branch. Please follow those projects if you are 
-interested in a PythonOCC/OCE version of CadQuery and the next generation GUI.***
+***NOTE: This software is currently not being maintained.*** The focus has shifted to the Electron-based CadQuery GUI [here](https://github.com/jmwright/cadquery-gui). This repository is left here for reference. PRs will still be accepted from developers who want to advance this codebase, but it will not be actively developed by the creator for an indefinite period.
+
+### Introduction
+A project to work through some purely experimental ideas for the CadQuery project.
